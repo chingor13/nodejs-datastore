@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/datastore?activeTab=versions
 
+### [5.1.1](https://www.github.com/googleapis/nodejs-datastore/compare/v5.1.0...v5.1.1) (2020-03-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @grpc/grpc-js to v0.7.1 ([#615](https://www.github.com/googleapis/nodejs-datastore/issues/615)) ([3e83981](https://www.github.com/googleapis/nodejs-datastore/commit/3e83981f3da83143eb9b76f32e563683704f8d99))
+
 ## [5.1.0](https://www.github.com/googleapis/nodejs-datastore/compare/v5.0.6...v5.1.0) (2020-03-11)
 
 
